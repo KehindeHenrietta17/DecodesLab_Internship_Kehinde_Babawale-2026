@@ -39,7 +39,7 @@ The primary objective was to:
 
 The completed dashboard provides a single-page view of sales performance, combining KPIs, product analysis, payment behavior, order status, purchasing quantity, and monthly trends.
 
-![Week4_Visualization](images/DecodesLabs_Sales_Analysis_Dashboard.png)
+![Week4_Visualization](Images/DecodesLabs_Sales_Analysis_Dashboard.png)
 
 ## Dashboard KPIs
 
