@@ -339,7 +339,7 @@ The final Power BI dashboard transformed these analytical findings into an acces
 
 ---
 
-# 📁 Repository Structure
+# Repository Structure
 
 ```text
 DecodesLab_Internship_Kehinde_Babawale-2026/
